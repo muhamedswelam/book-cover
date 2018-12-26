@@ -1,0 +1,17 @@
+nav{
+    margin-bottom: 2rem;
+}
+
+.form-group{
+    width: 100%
+}
+
+.book{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 100%;
+    border: 3px solid #ccc;
+    min-height: 500px;
+}
